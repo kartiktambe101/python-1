@@ -9,7 +9,7 @@ log.setLevel(logging.ERROR)
 
 @app.route("/")
 def home():
-    return "<h1>2.0.0 </h1>"
+    return "<h1>1.0.0 </h1>"
            
            
 
